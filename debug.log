@@ -1,0 +1,18 @@
+[1103/143700.394:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/062850.942:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/083805.756:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d9e0b4f6-1da4-472d-9a88-d8b61b1c8a1e: The system cannot find the path specified. (0x3)
+[1104/131745.562:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/131745.567:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/131745.567:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/131745.567:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/132745.571:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/132745.571:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/132745.572:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/132745.572:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1104/132745.572:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\d9e0b4f6-1da4-472d-9a88-d8b61b1c8a1e.dmp: The system cannot find the file specified. (0x2)
+[1104/132745.573:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\bebca268-4364-4184-a45c-3ba693ea64bc.dmp: The system cannot find the file specified. (0x2)
+[1104/132745.573:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\cbed14a5-3fc9-4395-b25e-8293a88bfe4f.dmp: The system cannot find the file specified. (0x2)
+[1104/132745.573:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e8bda69d-e3ac-4d98-8878-f44dd67a31a1.dmp: The system cannot find the file specified. (0x2)
+[1104/132745.573:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1104/163955.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1118/163009.189:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
